@@ -1,6 +1,6 @@
 #my-web
 
-My Own Website - VMEET.\n
+My Own Website - VMEET.  
 2025 | VMEET Software.
 
 main page:
